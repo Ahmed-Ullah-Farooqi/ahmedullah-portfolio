@@ -15,7 +15,7 @@ export default function About() {
       <p className="text-gray-400 text-center font-semibold">My Introduction</p>
       <div className="flex flex-col items-center md:gap-6 gap-12 max-2-6xl mx-auto text-gray-300 mt-5">
         <p className="text-justify leading-7 w-11/12 mx-auto">
-          My name is Ahmed Ullah Farooqi, and I hold a bachelor's degree from a
+          My name is Ahmed Ullah Farooqi and I hold a bachelors degree from a
           Urdu Federal University. I have been working in the accounts
           department for the past two years, leveraging my education in the
           field. After gaining valuable experience in the accounts department for
